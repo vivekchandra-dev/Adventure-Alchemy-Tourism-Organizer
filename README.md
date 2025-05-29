@@ -61,7 +61,7 @@ To run this project locally:
 ## ✍️ Author
 
 **Vivekchandra Menon**  
-📧 Email: menonvivekchandra@gmail.com  
+📧 Email: [menonvivekchandra@gmail.com](mailto:menonvivekchandra@gmail.com)   
 🔗 LinkedIn: https://www.linkedin.com/in/vivekchandra-menon/
 
 ---
