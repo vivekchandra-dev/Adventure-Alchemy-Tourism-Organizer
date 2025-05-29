@@ -6,8 +6,8 @@
 
 ## 🔗 Live Website
 
-🌐 [Click here to view the live site (User)](https://adventurealchemy.fwh)
-🌐 [Click here to view the live site (Admin)](https://adventurealchemy.fwh/admin)
+🌐 [Click here to view the live site (User)](https://adventurealchemy.fwh.is)
+🌐 [Click here to view the live site (Admin)](https://adventurealchemy.fwh.is/admin)
 
 ---
 
