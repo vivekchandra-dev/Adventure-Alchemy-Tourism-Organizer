@@ -6,9 +6,8 @@
 
 ## 🔗 Live Website
 
-🌐 [Click here to view the live site](adventurealchemy.fwh.is)
-🌐 [Click here to view the live site](adventurealchemy.fwh.is/admin)
-> _(Replace the link above with your actual GitHub Pages URL)_
+🌐 [Click here to view the live site (User side)](adventurealchemy.fwh.is)
+🌐 [Click here to view the live site (Admin)](adventurealchemy.fwh.is/admin)
 
 ---
 
